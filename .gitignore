@@ -1,0 +1,69 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+env/
+.venv/
+.conda/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# TensorFlow / Keras
+# =========================
+*.h5
+*.keras
+logs/
+checkpoints/
+
+# =========================
+# Dataset (DO NOT COMMIT DATA)
+# =========================
+data/
+dataset/
+
+# =========================
+# Results & Outputs
+# =========================
+result/
+outputs/
+predictions/
+
+# =========================
+# OpenCV / Face Detector Models
+# =========================
+*.caffemodel
+*.pb
+*.pbtxt
+*.onnx
+
+# =========================
+# OS & Editor Files
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# =========================
+# Misc
+# =========================
+*.log
+*.tmp
+.cache/
