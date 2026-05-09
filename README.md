@@ -11,7 +11,7 @@ An AI-based facial expression recognition system that classifies human emotions 
 - Face detection using **DNN*
 - Model training and evaluation with standard metrics
 
-## Tech Stack
+# Tech Stack
 - Python
 - OpenCV
 - DeepFace
