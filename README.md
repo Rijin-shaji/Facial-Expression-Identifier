@@ -20,7 +20,7 @@ An AI-based facial expression recognition system that classifies human emotions 
 - Scikit-learn
 - NumPy
 
-## Dataset
+# Dataset
 - Custom facial image dataset collected from **self and peers**
 - Folder-based structure (one folder per emotion)
 
