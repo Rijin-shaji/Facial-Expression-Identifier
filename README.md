@@ -27,7 +27,7 @@ An AI-based facial expression recognition system that classifies human emotions 
 
 Dataset is not included for privacy reasons.
 
-##  How It Works
+#  How It Works
 1. Detects face using **MTCNN**
 2. Extracts facial embeddings using **DeepFace (VGG-Face)**
 3. Trains a **DNN classifier** on embeddings
