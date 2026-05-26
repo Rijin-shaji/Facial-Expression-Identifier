@@ -1,4 +1,4 @@
-## Facial-Expression-Identifier
+# Facial-Expression-Identifier
 An AI-based facial expression recognition system that classifies human emotions using **DeepFace embeddings** and a **Deep Neural Network (DNN)**. The system supports **real-time emotion detection** through webcam Input.
 
 # Facial Expression Identifier 
