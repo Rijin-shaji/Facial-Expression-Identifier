@@ -5,7 +5,7 @@ An AI-based facial expression recognition system that classifies human emotions 
 
 An AI-based facial expression recognition system that classifies human emotions using **DeepFace embeddings** and a **Deep Neural Network (DNN)**. The system supports **real-time emotion detection** through webcam input.
 
-# Features
+## Features
 - Facial expression classification using **DeepFace (VGG-Face)** embeddings
 - Real-time webcam-based emotion detection
 - Face detection using **DNN*
